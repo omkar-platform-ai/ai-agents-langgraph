@@ -1,13 +1,16 @@
-# AI Project Template
+# AI Agents with LangGraph
 
-Reusable template for building AI/Agentic AI projects using Python.
+Hands-on implementations of stateful AI agents and workflow orchestration patterns using LangGraph.
 
-## Features
-- Clean project structure
-- CLI-based execution
-- Environment variable support
-- Docker support
-- GitHub Actions CI
-- Ready for LangChain, LangGraph, MCP, Claude Code
+## What this repo covers
+- Stateful agent workflows
+- Tool calling
+- Conditional branching
+- Retry/fallback patterns
+- Human-in-the-loop designs
 
-## Project Structure
+## Example projects
+- Basic state graph
+- Tool-using research agent
+- Multi-step decision workflow
+- Human approval checkpoint agent
